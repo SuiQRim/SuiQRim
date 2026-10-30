@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="114" viewBox="0 0 1200 114"><defs><pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#78654B" stroke-width=".8" opacity=".25"/></pattern><style>
+@keyframes sq-hobbies-1{0%,9.99%,70%,100%{opacity:0}10%,69.99%{opacity:1}}
+@keyframes sq-hobbies-2{0%,19.99%,60%,100%{opacity:0}20%,59.99%{opacity:1}}
+@keyframes sq-hobbies-3{0%,29.99%,50%,100%{opacity:0}30%,49.99%{opacity:1}}
+.sq-hobbies-1{opacity:0;animation:sq-hobbies-1 6.1s steps(1,end) -3.1s infinite}
+.sq-hobbies-2{opacity:0;animation:sq-hobbies-2 6.1s steps(1,end) -3.1s infinite}
+.sq-hobbies-3{opacity:0;animation:sq-hobbies-3 6.1s steps(1,end) -3.1s infinite}
+@media(prefers-reduced-motion:reduce){.sq-hobbies-1{animation:none;opacity:.9}.sq-hobbies-2{animation:none;opacity:.9}.sq-hobbies-3{animation:none;opacity:.9}}
+</style></defs><rect width="1200" height="114" rx="8" fill="#161916"/><rect width="1200" height="114" rx="8" fill="url(#grid)"/><path d="M0 0H1200V16H0Z" fill="#EBA25B"/><path d="M0 16H18V114H0Z" fill="#EBA25B"/><path d="M18 25L90 113H114L42 25" fill="#E5C79B"/><text x="143" y="73" font-family="Arial,sans-serif" font-style="italic" font-weight="900" font-size="45" fill="#F5E1C0">04 / OFF THE CLOCK</text><text x="147" y="100" font-family="Courier New,monospace" font-size="17" fill="#EBA25B" font-weight="700" letter-spacing="1.1">ТО, ЧТО ДВИЖЕТ ВПЕРЁД</text><circle cx="1097" cy="72" r="26" fill="#EBA25B"/><path d="M1068 79H1126M1070 87H1124M1076 95H1118" stroke="#171716" stroke-width="4"/><rect class="sq-hobbies-1" x="831" y="52" width="14" height="14" rx="1.5" fill="#F08031"/><rect class="sq-hobbies-2" x="854" y="52" width="14" height="14" rx="1.5" fill="#FFB15A"/><rect class="sq-hobbies-3" x="877" y="52" width="14" height="14" rx="1.5" fill="#F08031"/></svg>

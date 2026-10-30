@@ -23,7 +23,7 @@
 
 <a id="обо-мне"></a>
 
-<img src="assets/about-v6.svg" width="100%" alt="Обо мне. Создаю полезные продукты и ценю продуманную архитектуру."/>
+<img src="assets/about-v7.svg" width="100%" alt="Обо мне. Создаю полезные продукты и ценю продуманную архитектуру."/>
 
 <a id="стек"></a>
 
@@ -39,7 +39,7 @@
 
 <a href="https://github.com/SuiQRim/BillOfSaleSolution"><img src="assets/source-bill-v3.svg" width="100%" alt="Открыть исходный код BillOfSaleSolution"/></a>
 
-<a href="https://github.com/SuiQRim/Journey"><img src="assets/project-journey-v5.svg" width="100%" alt="Journey — учёт туров, WinForms, EF Core, модульные тесты"/></a>
+<a href="https://github.com/SuiQRim/Journey"><img src="assets/project-journey-v6.svg" width="100%" alt="Journey — учёт туров, WinForms, EF Core, модульные тесты"/></a>
 
 <a href="https://github.com/SuiQRim/Journey"><img src="assets/source-journey-v3.svg" width="100%" alt="Открыть исходный код Journey"/></a>
 
@@ -58,14 +58,14 @@
 
 <a id="вне-кода"></a>
 
-<img src="assets/divider-hobbies-v6.svg" width="100%" alt="04 — Вне кода"/>
+<img src="assets/divider-hobbies-v7.svg" width="100%" alt="04 — Вне кода"/>
 
 <img src="assets/hobbies-aligned-v6.jpg" width="100%" alt="Велоспорт, фотография, электрогитара и бег — четыре одинаково выровненные ретро-карточки"/>
 
 <a id="github-телеметрия"></a>
 <a id="контакты"></a>
 
-<img src="assets/divider-community-v7.svg" width="100%" alt="05 — Активность и контакты"/>
+<img src="assets/divider-community-v8.svg" width="100%" alt="05 — Активность и контакты"/>
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/SuiQRim/SuiQRim/output/snake.svg" width="100%" alt="Анимированная змейка GitHub — реальные коммиты"/>
