@@ -65,7 +65,7 @@
 <a id="github-телеметрия"></a>
 <a id="контакты"></a>
 
-<img src="assets/divider-activity-v4.svg" width="100%" alt="05 — Активность и контакты"/>
+<img src="assets/divider-community-v5.svg" width="100%" alt="05 — Активность и контакты"/>
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/SuiQRim/SuiQRim/output/snake.svg" width="100%" alt="Анимированная змейка GitHub — реальные коммиты"/>
