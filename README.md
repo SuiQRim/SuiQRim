@@ -6,14 +6,14 @@
 
 <table>
 <tr>
-<td width="33%"><a href="#обо-мне"><img src="assets/nav-01-v3.svg" width="100%" alt="обо-мне"/></a></td>
-<td width="33%"><a href="#стек"><img src="assets/nav-02-v3.svg" width="100%" alt="стек"/></a></td>
-<td width="33%"><a href="#проекты"><img src="assets/nav-03-v3.svg" width="100%" alt="проекты"/></a></td>
+<td width="33%"><a href="#обо-мне"><img src="assets/nav-01-v4.svg" width="100%" alt="обо-мне"/></a></td>
+<td width="33%"><a href="#стек"><img src="assets/nav-02-v4.svg" width="100%" alt="стек"/></a></td>
+<td width="33%"><a href="#проекты"><img src="assets/nav-03-v4.svg" width="100%" alt="проекты"/></a></td>
 </tr>
 <tr>
-<td width="33%"><a href="#вне-кода"><img src="assets/nav-04-v3.svg" width="100%" alt="вне-кода"/></a></td>
-<td width="33%"><a href="#github-телеметрия"><img src="assets/nav-05-v3.svg" width="100%" alt="github-телеметрия"/></a></td>
-<td width="33%"><a href="#контакты"><img src="assets/nav-06-v3.svg" width="100%" alt="контакты"/></a></td>
+<td width="33%"><a href="#вне-кода"><img src="assets/nav-04-v4.svg" width="100%" alt="вне-кода"/></a></td>
+<td width="33%"><a href="#github-телеметрия"><img src="assets/nav-05-v4.svg" width="100%" alt="github-телеметрия"/></a></td>
+<td width="33%"><a href="#контакты"><img src="assets/nav-06-v4.svg" width="100%" alt="контакты"/></a></td>
 </tr>
 </table>
 
@@ -27,11 +27,13 @@
 
 <a id="стек"></a>
 
-<img src="assets/stack-v3.svg" width="100%" alt="C#, ASP.NET Core, EF Core, SQL, архитектура и тестирование"/>
+<img src="assets/stack-v3.svg" width="100%" alt="Технологии .NET, SQL и архитектура"/>
+
+<!-- Принципы Engineering Rules удалены в обновленной иллюстрации ниже -->
 
 <a id="проекты"></a>
 
-<img src="assets/section-projects.svg" width="100%" alt="03 — Избранные проекты"/>
+<img src="assets/divider-projects-v4.svg" width="100%" alt="03 — Избранные проекты"/>
 
 <a href="https://github.com/SuiQRim/BillOfSaleSolution"><img src="assets/project-bill-v3.svg" width="100%" alt="BillOfSaleSolution — REST API, слои API/BLL/DAL, PostgreSQL, тестирование"/></a>
 
@@ -56,35 +58,15 @@
 
 <a id="вне-кода"></a>
 
+<img src="assets/divider-hobbies-v4.svg" width="100%" alt="Вне кода"/>
+
 <img src="assets/hobbies-v3.svg" width="100%" alt="Увлечения: велоспорт, фотография, электрогитара, бег и тренировки"/>
 
-<details>
-<summary><b>/// SECRET COMPARTMENT — личное дело пилота</b></summary>
-
-```text
-VELOCITY DIVISION // PERSONAL DATA
-FAVORITE COLOR  : ORANGE
-DESIGN DNA      : 1970s / RETRO FUTURE
-FASCINATION     : MUSCLE CARS / ANALOG TECH
-AFTER HOURS     : CYCLING / PHOTOGRAPHY
-                  ELECTRIC GUITAR / TRAINING
-SYSTEM STATUS   : KEEP EXPLORING
-```
-
-Мне близки эстетика 70-х, автомобильный дизайн и оптимистичное представление о будущем технологий.
-
-</details>
-
-<details>
-<summary><b>/// SNAKE.EXE — секретный запуск</b></summary>
-
-Мой старый проект, полностью написанный вручную до появления AI-ассистентов: [SnakeGame](https://github.com/SuiQRim/SnakeGame).
-
-</details>
+<p align="center"><em>За пределами программирования: велоспорт, фотография, электрогитара, бег и тренировки. Люблю эстетику 70-х, маслкары и тёплый ретрофутуризм.</em></p>
 
 <a id="github-телеметрия"></a>
 
-<img src="assets/telemetry-v3.svg" width="100%" alt="Contribution Drive — активность GitHub"/>
+<img src="assets/divider-activity-v4.svg" width="100%" alt="Contribution Drive — активность GitHub"/>
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/SuiQRim/SuiQRim/output/snake.svg" width="100%" alt="Анимированная змейка по графику активности GitHub"/>
@@ -92,7 +74,7 @@ SYSTEM STATUS   : KEEP EXPLORING
 
 <a id="контакты"></a>
 
-<img src="assets/contact-v3.svg" width="100%" alt="Контакты — Velocity Division"/>
+<img src="assets/divider-contact-v4.svg" width="100%" alt="Контакты — Velocity Division"/>
 
 <table>
 <tr>
