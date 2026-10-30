@@ -60,7 +60,14 @@
 
 <img src="assets/divider-hobbies-v4.svg" width="100%" alt="04 — Вне кода"/>
 
-<img src="assets/hobbies-v5.svg" width="100%" alt="Велоспорт, фотография, электрогитара, бег и тренировки"/>
+<table>
+<tr>
+<td width="25%" align="center"><img src="assets/hobby-cycling.jpg" width="100%" alt="Шоссейный велосипед в ретро-стиле на закате"/><strong>01 / ВЕЛОСПОРТ</strong></td>
+<td width="25%" align="center"><img src="assets/hobby-photography.jpg" width="100%" alt="Винтажная фотокамера на фоне заката"/><strong>02 / ФОТОГРАФИЯ</strong></td>
+<td width="25%" align="center"><img src="assets/hobby-guitar.jpg" width="100%" alt="Электрогитара в духе рок-музыки 70-х"/><strong>03 / ЭЛЕКТРОГИТАРА</strong></td>
+<td width="25%" align="center"><img src="assets/hobby-running.jpg" width="100%" alt="Беговые кроссовки в тёплом закатном свете"/><strong>04 / БЕГ И ТРЕНИРОВКИ</strong></td>
+</tr>
+</table>
 
 <a id="github-телеметрия"></a>
 <a id="контакты"></a>
