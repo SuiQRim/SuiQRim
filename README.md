@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="assets/velocity-hero.jpg" width="100%" alt="ROMAN SAMADI — VELOCITY DIVISION / C# .NET Developer"/>
-
-<img src="assets/nav-header-v6.svg" width="100%" alt="VELOCITY DIVISION — Software Engineer"/>
+<img src="assets/hero-roman-terminal-v1.svg" width="100%" alt="Roman Samadi — C# .NET Backend Developer. Анимированная печать имени на фоне ретрофутуристического города и маслкара"/>
 
 <table>
 <tr>
