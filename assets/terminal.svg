@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="285" viewBox="0 0 1100 285" role="img" aria-label="SuiQRim vintage developer profile"><defs><pattern id="scan" width="1" height="6" patternUnits="userSpaceOnUse"><rect y="3" width="1" height="1" fill="#FBEACA" opacity="0.04"/></pattern>
+<style>
+ @keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}
+ @keyframes typing{0%{width:0}19%,87%{width:615px}100%{width:615px}}
+ #caret{animation:blink 1s steps(1) infinite}
+ #reveal{animation:typing 6s steps(45,end) infinite}
+ @media(prefers-reduced-motion:reduce){#caret{animation:none}#reveal{animation:none;width:615px}}
+ </style>
+ <clipPath id="typed"><rect id="reveal" x="74" y="178" width="615" height="39"/></clipPath>
+ </defs>
+ <rect width="1100" height="285" rx="15" fill="#30241F"/>
+ <rect x="13" y="13" width="1074" height="259" rx="10" fill="#443025" stroke="#80634F" stroke-width="2"/>
+ <rect x="29" y="28" width="1042" height="230" rx="7" fill="#211D19"/>
+ <rect x="29" y="28" width="1042" height="230" rx="7" fill="url(#scan)"/>
+ <circle cx="61" cy="53" r="7" fill="#F1873B"/><circle cx="83" cy="53" r="7" fill="#F3B75A"/><circle cx="105" cy="53" r="7" fill="#91AA83"/>
+ <text x="139" y="61" fill="#D2B98B" font-family="Courier New, monospace" font-size="21" font-weight="700" letter-spacing="1">SUIQRIM // RETRO TERMINAL 1.0</text>
+ <path d="M55 77H1046" stroke="#80634F" stroke-width="1"/>
+ <text x="62" y="119" fill="#D8AE80" font-family="Courier New, monospace" font-size="26" font-weight="700" >&gt; SYSTEM / READY</text>
+ <text x="62" y="160" fill="#94B492" font-family="Courier New, monospace" font-size="24" font-weight="700" >&gt; STACK / C# · ASP.NET CORE · EF CORE · SQL</text>
+ <g clip-path="url(#typed)"><text x="75" y="205" fill="#F1873B" font-family="Courier New, monospace" font-size="26" font-weight="700" >BUILD USEFUL THINGS. BUILD THEM WELL.</text></g>
+ <rect id="caret" x="660" y="181" width="12" height="27" fill="#F1873B"/>
+ <text x="64" y="240" fill="#A18F79" font-family="Courier New, monospace" font-size="18" font-weight="700" >[ ENGINEERING FIRST ]</text>
+ <text x="862" y="240" fill="#A18F79" font-family="Courier New, monospace" font-size="17" font-weight="700" >1970 / 2026</text>
+</svg>
