@@ -2,7 +2,7 @@
 
 <img src="assets/velocity-hero.jpg" width="100%" alt="ROMAN SAMADI — VELOCITY DIVISION / C# .NET Developer"/>
 
-<img src="assets/nav-header-v5.svg" width="100%" alt="VELOCITY DIVISION — Software Engineer"/>
+<img src="assets/nav-header-v6.svg" width="100%" alt="VELOCITY DIVISION — Software Engineer"/>
 
 <table>
 <tr>
@@ -23,7 +23,7 @@
 
 <a id="обо-мне"></a>
 
-<img src="assets/about-v5.svg" width="100%" alt="Обо мне. Создаю полезные продукты и ценю продуманную архитектуру."/>
+<img src="assets/about-v6.svg" width="100%" alt="Обо мне. Создаю полезные продукты и ценю продуманную архитектуру."/>
 
 <a id="стек"></a>
 
@@ -33,9 +33,9 @@
 
 <a id="проекты"></a>
 
-<img src="assets/divider-projects-v6.svg" width="100%" alt="03 — Избранные проекты"/>
+<img src="assets/divider-projects-v7.svg" width="100%" alt="03 — Избранные проекты"/>
 
-<a href="https://github.com/SuiQRim/BillOfSaleSolution"><img src="assets/project-bill-v5.svg" width="100%" alt="BillOfSaleSolution — REST API, слои API/BLL/DAL, PostgreSQL, тестирование"/></a>
+<a href="https://github.com/SuiQRim/BillOfSaleSolution"><img src="assets/project-bill-v6.svg" width="100%" alt="BillOfSaleSolution — REST API, слои API/BLL/DAL, PostgreSQL, тестирование"/></a>
 
 <a href="https://github.com/SuiQRim/BillOfSaleSolution"><img src="assets/source-bill-v3.svg" width="100%" alt="Открыть исходный код BillOfSaleSolution"/></a>
 
