@@ -3,13 +3,13 @@
 <img src="assets/hero-roman-terminal-v1.svg" width="100%" alt="Roman Samadi — C# .NET Backend Developer. Анимированная печать имени на фоне ретрофутуристического города и маслкара"/>
 
 <div align="center">
-<a href="#обо-мне"><img src="assets/nav-01-v5.svg" width="32%" alt="ОБО МНЕ"/></a>
-<a href="#стек"><img src="assets/nav-02-v5.svg" width="32%" alt="СТЕК"/></a>
-<a href="#проекты"><img src="assets/nav-03-v5.svg" width="32%" alt="ПРОЕКТЫ"/></a>
+<a href="#обо-мне"><img src="assets/nav-01-v6.svg" width="32%" alt="ОБО МНЕ"/></a>
+<a href="#стек"><img src="assets/nav-02-v6.svg" width="32%" alt="СТЕК"/></a>
+<a href="#проекты"><img src="assets/nav-03-v6.svg" width="32%" alt="ПРОЕКТЫ"/></a>
 <br/>
-<a href="#вне-кода"><img src="assets/nav-04-v5.svg" width="32%" alt="ВНЕ КОДА"/></a>
-<a href="#github-телеметрия"><img src="assets/nav-05-v5.svg" width="32%" alt="АКТИВНОСТЬ"/></a>
-<a href="#контакты"><img src="assets/nav-06-v5.svg" width="32%" alt="КОНТАКТЫ"/></a>
+<a href="#вне-кода"><img src="assets/nav-04-v6.svg" width="32%" alt="ВНЕ КОДА"/></a>
+<a href="#github-телеметрия"><img src="assets/nav-05-v6.svg" width="32%" alt="АКТИВНОСТЬ"/></a>
+<a href="#контакты"><img src="assets/nav-06-v6.svg" width="32%" alt="КОНТАКТЫ"/></a>
 </div>
 
 <img src="assets/terminal.svg" width="100%" alt="Оригинальный анимированный ретро-терминал"/>
@@ -65,7 +65,7 @@
 
 <table>
 <tr>
-<td width="33%"><a href="mailto:samadio.roman@gmail.com"><img src="assets/contact-mail-v5.svg" width="100%" alt="Написать на email"/></a></td>
+<td width="33%"><a href="https://mail.google.com/mail/?to=samadio.roman%40gmail.com&amp;tf=cm"><img src="assets/contact-mail-v5.svg" width="100%" alt="Написать через Gmail"/></a></td>
 <td width="33%"><a href="https://t.me/suiqrim"><img src="assets/contact-tg-v5.svg" width="100%" alt="Написать в Telegram"/></a></td>
 <td width="33%"><a href="https://steamcommunity.com/id/SuiQRim/"><img src="assets/contact-steam-v5.svg" width="100%" alt="Steam"/></a></td>
 </tr>
