@@ -1,0 +1,36 @@
+name: Velocity Division / contribution snake
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '35 2 * * *'
+  push:
+    branches:
+      - main
+    paths:
+      - '.github/workflows/snake.yml'
+      - 'README.md'
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Generate orange contribution snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: SuiQRim
+          outputs: |
+            dist/snake.svg?color_snake=%23F07C2A&color_dots=%231B1A17,%234A3022,%23895432,%23C76A2C,%23FFB15F
+
+      - name: Publish SVG on output branch
+        uses: crazy-max/ghaction-github-pages@v5
+        with:
+          target_branch: output
+          build_dir: dist
+          jekyll: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
