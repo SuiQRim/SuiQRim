@@ -27,7 +27,7 @@
 
 <a id="стек"></a>
 
-<img src="assets/stack-v3.svg" width="100%" alt="Технологии .NET, SQL и архитектура"/>
+<img src="assets/stack-v4.svg" width="100%" alt="Технологии .NET, SQL и архитектура"/>
 
 <!-- Принципы Engineering Rules удалены в обновленной иллюстрации ниже -->
 
@@ -35,15 +35,15 @@
 
 <img src="assets/divider-projects-v4.svg" width="100%" alt="03 — Избранные проекты"/>
 
-<a href="https://github.com/SuiQRim/BillOfSaleSolution"><img src="assets/project-bill-v3.svg" width="100%" alt="BillOfSaleSolution — REST API, слои API/BLL/DAL, PostgreSQL, тестирование"/></a>
+<a href="https://github.com/SuiQRim/BillOfSaleSolution"><img src="assets/project-bill-v4.svg" width="100%" alt="BillOfSaleSolution — REST API, слои API/BLL/DAL, PostgreSQL, тестирование"/></a>
 
 <a href="https://github.com/SuiQRim/BillOfSaleSolution"><img src="assets/source-bill-v3.svg" width="100%" alt="Открыть исходный код BillOfSaleSolution"/></a>
 
-<a href="https://github.com/SuiQRim/Journey"><img src="assets/project-journey-v3.svg" width="100%" alt="Journey — учёт туров, WinForms, EF Core, модульные тесты"/></a>
+<a href="https://github.com/SuiQRim/Journey"><img src="assets/project-journey-v4.svg" width="100%" alt="Journey — учёт туров, WinForms, EF Core, модульные тесты"/></a>
 
 <a href="https://github.com/SuiQRim/Journey"><img src="assets/source-journey-v3.svg" width="100%" alt="Открыть исходный код Journey"/></a>
 
-<a href="https://github.com/SuiQRim/Cafeteria.API"><img src="assets/project-cafe-v3.svg" width="100%" alt="Cafeteria — REST API и React frontend"/></a>
+<a href="https://github.com/SuiQRim/Cafeteria.API"><img src="assets/project-cafe-v4.svg" width="100%" alt="Cafeteria — REST API и React frontend"/></a>
 
 <table>
 <tr>
@@ -52,13 +52,13 @@
 </tr>
 </table>
 
-<a href="https://github.com/SuiQRim/SnakeGame"><img src="assets/project-snake-v3.svg" width="100%" alt="SnakeGame — авторская консольная игра на C#"/></a>
+<a href="https://github.com/SuiQRim/SnakeGame"><img src="assets/project-snake-v4.svg" width="100%" alt="SnakeGame — авторская консольная игра на C#"/></a>
 
 <a href="https://github.com/SuiQRim/SnakeGame"><img src="assets/source-snake-v3.svg" width="100%" alt="Открыть исходники SnakeGame"/></a>
 
 <a id="вне-кода"></a>
 
-<img src="assets/divider-hobbies-v4.svg" width="100%" alt="04 — Вне кода"/>
+<img src="assets/divider-hobbies-v5.svg" width="100%" alt="04 — Вне кода"/>
 
 <img src="assets/hobbies-aligned-v6.jpg" width="100%" alt="Велоспорт, фотография, электрогитара и бег — четыре одинаково выровненные ретро-карточки"/>
 
