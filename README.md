@@ -47,8 +47,8 @@
 
 <table>
 <tr>
-<td width="50%"><a href="https://github.com/SuiQRim/Cafeteria.API"><img src="assets/source-api-v3.svg" width="100%" alt="Открыть Cafeteria API"/></a></td>
-<td width="50%"><a href="https://github.com/SuiQRim/cafeteria_website"><img src="assets/source-client-v3.svg" width="100%" alt="Открыть React-клиент Cafeteria"/></a></td>
+<td width="50%"><a href="https://github.com/SuiQRim/Cafeteria.API"><img src="assets/source-api-v5.svg" width="100%" alt="Открыть Cafeteria API"/></a></td>
+<td width="50%"><a href="https://github.com/SuiQRim/cafeteria_website"><img src="assets/source-client-v5.svg" width="100%" alt="Открыть React-клиент Cafeteria"/></a></td>
 </tr>
 </table>
 
@@ -60,24 +60,21 @@
 
 <img src="assets/divider-hobbies-v4.svg" width="100%" alt="04 — Вне кода"/>
 
-<img src="assets/hobbies-v4.svg" width="100%" alt="Велоспорт, фотография, электрогитара, бег и тренировки"/>
+<img src="assets/hobbies-v5.svg" width="100%" alt="Велоспорт, фотография, электрогитара, бег и тренировки"/>
 
 <a id="github-телеметрия"></a>
-
-<img src="assets/divider-activity-v4.svg" width="100%" alt="Contribution Drive — активность GitHub"/>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/SuiQRim/SuiQRim/output/snake.svg" width="100%" alt="Анимированная змейка по графику активности GitHub"/>
-</div>
-
 <a id="контакты"></a>
 
-<img src="assets/divider-contact-v4.svg" width="100%" alt="Контакты — Velocity Division"/>
+<img src="assets/divider-activity-v4.svg" width="100%" alt="05 — Активность и контакты"/>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/SuiQRim/SuiQRim/output/snake.svg" width="100%" alt="Анимированная змейка GitHub — реальные коммиты"/>
+</div>
 
 <table>
 <tr>
-<td width="33%"><a href="mailto:samadio.roman@gmail.com"><img src="assets/contact-mail-v3.svg" width="100%" alt="Написать по электронной почте"/></a></td>
-<td width="33%"><a href="https://t.me/suiqrim"><img src="assets/contact-tg-v3.svg" width="100%" alt="Открыть Telegram"/></a></td>
-<td width="33%"><a href="https://steamcommunity.com/id/SuiQRim/"><img src="assets/contact-steam-v3.svg" width="100%" alt="Открыть Steam"/></a></td>
+<td width="33%"><a href="mailto:samadio.roman@gmail.com"><img src="assets/contact-mail-v5.svg" width="100%" alt="Написать на email"/></a></td>
+<td width="33%"><a href="https://t.me/suiqrim"><img src="assets/contact-tg-v5.svg" width="100%" alt="Написать в Telegram"/></a></td>
+<td width="33%"><a href="https://steamcommunity.com/id/SuiQRim/"><img src="assets/contact-steam-v5.svg" width="100%" alt="Steam"/></a></td>
 </tr>
 </table>
