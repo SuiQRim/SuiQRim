@@ -52,7 +52,7 @@
 
 <img src="assets/divider-hobbies-v8.svg" width="100%" alt="04 — Вне кода"/>
 
-<img src="assets/hobbies-aligned-v6.jpg" width="100%" alt="Велоспорт, фотография, электрогитара и бег — четыре одинаково выровненные ретро-карточки"/>
+<img src="assets/hobbies-flat-games-photo-music-sport.jpg" width="100%" alt="Мои увлечения: видеоигры, фотография, музыка и спорт — триатлон. Четыре ретрофутуристические иллюстрации"/>
 
 <a id="github-телеметрия"></a>
 <a id="контакты"></a>
