@@ -52,7 +52,7 @@
 
 <img src="assets/divider-hobbies-v8.svg" width="100%" alt="04 — Вне кода"/>
 
-<img src="assets/hobbies-flat-games-photo-music-sport.jpg" width="100%" alt="Мои увлечения: видеоигры, фотография, музыка и спорт — триатлон. Четыре ретрофутуристические иллюстрации"/>
+<img src="assets/hobbies-flat-complete-v2.jpg" width="100%" alt="Четыре увлечения: видеоигры, фотография, музыка, спорт. Полное изображение с рамками и подписями"/>
 
 <a id="github-телеметрия"></a>
 <a id="контакты"></a>
@@ -60,13 +60,7 @@
 <img src="assets/divider-community-v9.svg" width="100%" alt="05 — Активность и контакты"/>
 
 <div align="center">
+<a href="https://mail.google.com/mail/?to=samadio.roman%40gmail.com&amp;tf=cm"><img src="assets/contact-mail-v5.svg" width="32%" alt="Написать через Gmail"/></a><a href="https://t.me/suiqrim"><img src="assets/contact-tg-v5.svg" width="32%" alt="Написать в Telegram"/></a><a href="https://steamcommunity.com/id/SuiQRim/"><img src="assets/contact-steam-v5.svg" width="32%" alt="Открыть Steam"/></a>
+<img src="assets/telemetry-strip-v1.svg" width="100%" alt="CONTRIBUTION DRIVE — GitHub activity"/>
 <img src="https://raw.githubusercontent.com/SuiQRim/SuiQRim/output/snake.svg" width="100%" alt="Анимированная змейка GitHub — реальные коммиты"/>
 </div>
-
-<table>
-<tr>
-<td width="33%"><a href="https://mail.google.com/mail/?to=samadio.roman%40gmail.com&amp;tf=cm"><img src="assets/contact-mail-v5.svg" width="100%" alt="Написать через Gmail"/></a></td>
-<td width="33%"><a href="https://t.me/suiqrim"><img src="assets/contact-tg-v5.svg" width="100%" alt="Написать в Telegram"/></a></td>
-<td width="33%"><a href="https://steamcommunity.com/id/SuiQRim/"><img src="assets/contact-steam-v5.svg" width="100%" alt="Steam"/></a></td>
-</tr>
-</table>
