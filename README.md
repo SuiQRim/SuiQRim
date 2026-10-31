@@ -60,7 +60,7 @@
 <img src="assets/divider-community-v9.svg" width="100%" alt="05 — Активность и контакты"/>
 
 <div align="center">
-<a href="https://mail.google.com/mail/?to=samadio.roman%40gmail.com&amp;tf=cm"><img src="assets/contact-mail-v5.svg" width="32%" alt="Написать через Gmail"/></a><a href="https://t.me/suiqrim"><img src="assets/contact-tg-v5.svg" width="32%" alt="Написать в Telegram"/></a><a href="https://steamcommunity.com/id/SuiQRim/"><img src="assets/contact-steam-v5.svg" width="32%" alt="Открыть Steam"/></a>
+<a href="https://mail.google.com/mail/?to=samadio.roman%40gmail.com&amp;tf=cm"><img src="assets/contact-mail-v6.svg" width="32%" alt="Написать через Gmail"/></a><a href="https://t.me/suiqrim"><img src="assets/contact-tg-v6.svg" width="32%" alt="Написать в Telegram"/></a><a href="https://steamcommunity.com/id/SuiQRim/"><img src="assets/contact-steam-v6.svg" width="32%" alt="Открыть Steam"/></a>
 <img src="assets/telemetry-strip-v1.svg" width="100%" alt="CONTRIBUTION DRIVE — GitHub activity"/>
 <img src="https://raw.githubusercontent.com/SuiQRim/SuiQRim/output/snake.svg" width="100%" alt="Анимированная змейка GitHub — реальные коммиты"/>
 </div>
