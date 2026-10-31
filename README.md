@@ -40,9 +40,9 @@
 
 <a href="https://github.com/SuiQRim/Cafeteria.API"><img src="assets/project-cafe-v5.svg" width="100%" alt="Cafeteria — REST API и React frontend"/></a>
 
-<div align="center">
+<p align="center">
 <a href="https://github.com/SuiQRim/Cafeteria.API"><img src="assets/source-api-v6.svg" width="49%" alt="Открыть Cafeteria API"/></a><a href="https://github.com/SuiQRim/cafeteria_website"><img src="assets/source-client-v6.svg" width="49%" alt="Открыть React-клиент Cafeteria"/></a>
-</div>
+</p>
 
 <a href="https://github.com/SuiQRim/SnakeGame"><img src="assets/project-snake-v5.svg" width="100%" alt="SnakeGame — авторская консольная игра на C#"/></a>
 
